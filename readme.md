@@ -8,12 +8,14 @@ I'm currently looking for my first working with frontend developer.
 <img src="https://media.tenor.com/P-J95-PzmjAAAAAC/snorlax-waving.gif" title="hello" width="335" height="243" align="right" alt="Hello">
 </a>
 
-## 🌐 Socials:
+# 📖 Formation:
+- Técnico em informática integrado (IFSP campûs Campos do Jordão) <br>
+- Técnologo, Ánalise e Desenvolvimento de Sistemas (IFSP campûs Campos do Jordão) 
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-fonseca-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF6347.svg?logo=gmail&logoColor=white)](mailto:emanuel.marquessf@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emanuel.marquess/) 
-
-
 
 # 💻 Tech Stack:
 
