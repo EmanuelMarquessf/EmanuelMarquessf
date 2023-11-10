@@ -26,7 +26,7 @@ I'm currently looking for my first working with frontend developer.
 ![TailwindCSS](https://img.shields.io/badge/-tailwind-08a7c2?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) 
 ![Figma](https://img.shields.io/badge/figma-%2307405e.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233d61cd.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233d61cd.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) -->
 
 
 <!--![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)-->
