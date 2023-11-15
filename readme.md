@@ -34,14 +34,9 @@ I'm currently looking for my first working with frontend developer.
 <!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
 
 # 📊 GitHub Stats:
-<div align="center" >
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=EmanuelMarquessf&theme=dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelMarquessf&layout=compact&langs_count=7&theme=dark&hide)
-  
-</div>
 
-<div align="center">
-  
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmanuelMarquessf&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelMarquessf&layout=compact&langs_count=7&theme=dark&hide)
+
 ![](https://github-readme-stats.vercel.app/api?username=EmanuelMarquessf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-</div>
+
