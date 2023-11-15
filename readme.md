@@ -23,6 +23,7 @@ I'm currently looking for my first working with frontend developer.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Sass](https://img.shields.io/badge/Sass-%23bc608e.svg?style=for-the-badge&logo=sass&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/-tailwind-08a7c2?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) 
 ![Figma](https://img.shields.io/badge/figma-%2307405e.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
