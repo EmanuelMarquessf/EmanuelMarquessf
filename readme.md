@@ -25,6 +25,7 @@ I'm currently looking for my first working with frontend developer.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%236e2cf3.svg?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-%236084aa.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
 ![Sass](https://img.shields.io/badge/Sass-%23bc608e.svg?style=for-the-badge&logo=sass&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/-tailwind-08a7c2?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) 
 ![Figma](https://img.shields.io/badge/figma-%2307405e.svg?style=for-the-badge&logo=figma&logoColor=white)
